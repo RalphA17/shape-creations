@@ -21,6 +21,10 @@ I created this project by storing all of my CSS code in style.css and placed all
 What I learned from this project was utilizing the clip-path property. Using clip-path allows for simplicty for creating complex shapes in the future. 
 <!-- In 2-3 sentences tell everyone what you learned -->
 
+## How it can be improved?
+What I could have done to make this better would be implementing a button and that upon hovering over that button it would cause all of the shapes to react over hovering that one button. 
+
 ## Video
 
-<!-- A video demonstrating your project -- >
+https://github.com/user-attachments/assets/c70948ed-026f-4521-882f-38d00b4849a6
+
