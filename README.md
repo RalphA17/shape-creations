@@ -7,7 +7,7 @@ A small project I created with the purpose of creating shapes. I decieded to cre
 <!-- Technologies you used -->
 - HTML
 - CSS
-- **Visual Studio**
+**Visual Studio**
 
 ## Features
 All you gotta do is just hover your cursor over each shape and you will withness the various effects each shape will do once you hover over each shape. 
