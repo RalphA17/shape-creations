@@ -1,6 +1,6 @@
 # shape-creations
 <!-- Short description of what your project does(3-4 senetnces)-->
-A small project I created with the purpose of creating shapes. I decieded to create this project with the ability to demostarte my skills in creating shapes. In addition, I also decieded to mess around with the hover effect for people to enjoy moving their mouse over each shape. 
+A small project I created with the purpose of creating shapes. I decieded to create this project with the ability to demonstrate my skills in creating shapes. In addition, I also decieded to mess around with the hover effect for people to enjoy moving their mouse over each shape. 
 
 ## Technologies
 
